@@ -1,347 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Página principal -->
+  <url>
+    <loc>https://SebastianFloresPro.github.io/</loc>
+    <lastmod>2024-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 
+  <!-- Página "Sobre mí" -->
+  <url>
+    <loc>https://SebastianFloresPro.github.io/#sobre-mi</loc>
+    <lastmod>2024-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/activity</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/issues</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/pulls</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/security</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/blob/main/README.md</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/blob/main/sebas.css</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/releases</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/search?q=repo%3ASebastianFloresPro%2Fsebastianflorespro.github.io++language%3ACSS</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/labels</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/workflows/pages/pages-build-deployment</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/caches</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/attestations</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/runs/11924328086</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/runs/11924323087</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/labels?sort=name-asc</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/labels?sort=name-desc</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/labels?sort=count-desc</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/labels?sort=count-asc</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/labels/bug</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/labels/documentation</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/labels/duplicate</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/labels/enhancement</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/labels/good%20first%20issue</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/labels/help%20wanted</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/labels/invalid</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/labels/question</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/labels/wontfix</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?state=open</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?state=closed</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/caches?query=sort%3Aaccessed-desc</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/caches?query=sort%3Aaccessed-asc</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/caches?query=sort%3Acreated-desc</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/caches?query=sort%3Acreated-asc</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/caches?query=sort%3Asize-desc</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/caches?query=sort%3Asize-asc</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/runs/11924328086/job/33234454415</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/runs/11924328086/job/33234467193</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/runs/11924328086/job/33234467195</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/runs/11924328086/usage</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/commit/12e724bd8356a99eaae9256decdfbf63bf0c4f99</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/runs/11924323087/job/33234439325</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/runs/11924323087/job/33234454273</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/runs/11924323087/job/33234454383</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/actions/runs/11924323087/usage</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/commit/ab46f8d0919a4ef350dc5f5407fd0e89509bd117</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/commit/dabd8eba89e2ded7c259fb9a0dc658547cc3327a</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/commit/e44930009d6a139894c83c3a51173c9b8ba2e34e</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://github.com/SebastianFloresPro/sebastianflorespro.github.io/commit/aa1fae105503a845ad9514873c7eb29fba7a4a4f</loc>
-  <lastmod>2024-11-20T00:32:15+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
+  <!-- Página "Habilidades" -->
+  <url>
+    <loc>https://SebastianFloresPro.github.io/#habilidades</loc>
+    <lastmod>2024-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 
+  <!-- Página "Contacto" -->
+  <url>
+    <loc>https://SebastianFloresPro.github.io/#contacto</loc>
+    <lastmod>2024-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- GitHub -->
+  <url>
+    <loc>https://github.com/SebastianFloresPro</loc>
+    <lastmod>2024-11-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- LinkedIn -->
+  <url>
+    <loc>https://pe.linkedin.com/in/sebastian-flores-pro-6a813b326</loc>
+    <lastmod>2024-11-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Correo electrónico -->
+  <url>
+    <loc>mailto:sebastian.flores.pro@ucsp.edu.pe</loc>
+    <lastmod>2024-11-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
 
 </urlset>
